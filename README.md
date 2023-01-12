@@ -16,5 +16,8 @@ Detected .archives
 
 
 Meta 
-Cyberarmy 
-cber CBN 
+Cyberarmy checkbansumming and cyberjawara closing permanent . 
+
+
+and president check up for send money kominfo detected play digital moneytary mister fandi !! kominfo ! 
+
