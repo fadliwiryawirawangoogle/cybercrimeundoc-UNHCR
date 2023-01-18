@@ -1,4 +1,5 @@
 #undoc #unhcrRI swadaya #https://www.unhcr.org/stay-informed.html
+https://youtube.com/shorts/gDlDOYoge2I?feature=share
 UNHCR BOTH FADLIWIRYAWIRAWAN UNITEDSTATESSH ACCEPT VOICE 
 ##fadliwiryawirawan #11-september-1993 
 Patrolly corrupted politics and corrupted . Next 
