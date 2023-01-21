@@ -1,6 +1,17 @@
 https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6/block.exe/delete.exe/
 maps here 
-https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6 th villages . Claim data mister fadliwiryawirawan.  the village company bogor areas red card villages jampang Bogor . tanks all countrys 
+https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6 th villages . Claim data mister fadliwiryawirawan.  the village company bogor areas red card villages jampang Bogor . tanks all countrys FBI JUSTICE AND MILLITARY ACOULUS, CANADA.  US ,LONDON CHINA AND RUSSIAN WARNING !! 
+STOP PLAYED DATA FADLIWIRYAWIRAWAN REGULATORY.  
+Wanted : FANDY KOMINFO 
+PRAYER : INDIHOME BOGOR ARES JAMPANG KULON : LAZADA ILLEGALS PROGRAM BROADCAST . LEAD SERVICES TH.2022 . 
+and vissa atm . from 081213976673 fadliwiryawirawan samsung stop claim jawa timur and communicated desa jabon mekar parung bogor jalan 12 stop . Redcard . 
+Detected. 
+
+
+//---------+--------TURN CRIME PATROLLY LINER VISSAS ATM BANK --------------------//
+www.chinese.gov teams police bussiners
+www Australia.gov teams police bussiners
+www.hindia.gov team police bussiners
 
 
 #undoc #unhcrRI swadaya #https://www.unhcr.org/stay-informed.html
