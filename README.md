@@ -313,3 +313,11 @@ https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6
 
 no activated stop clamed and requeted moneytary . maps ( 
 https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6) closing permanent 
+
+www.id.yahoo.com archives viruses 
+www.ubuntu.com  server 
+www.nmap.com/block.exe
+www.microsoft.co.id 
+sedang perbaikan . kebijkan kendala ditangan pekerja yang jujur . 
+wwww.g20.com/
+www.c40.com
