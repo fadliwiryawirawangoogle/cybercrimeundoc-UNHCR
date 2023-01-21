@@ -292,3 +292,8 @@ Warms validate . Pishing mail .stop where u are SCADA ??!! I AM CHANGER STOP PRO
 https://darul-muttaqien.com/ check your youtube please stop claimed . your scholling but N.U very much .! bekerja adalah suatu pekerjaan yang adil tak mengenal maka tak sayang belajarlah mrnghargai .
 and president check up for send money kominfo detected play digital moneytary mister fandi digantikan oleh sekretariat untuk fokus bukan umum game . operasional . aturansitas . capcha kami alihkan . ke event gaming skill tingkat unity europe dan asia . !! kominfo ! 
 
+https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6
+
+
+no activated stop clamed and requeted moneytary . maps ( 
+https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6) closing permanent 
