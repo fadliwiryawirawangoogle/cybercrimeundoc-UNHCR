@@ -1,3 +1,8 @@
+https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6/block.exe/delete.exe/
+maps here 
+https://maps.app.goo.gl/QHwRaze7HzW1BJFZ6 th villages . Claim data mister fadliwiryawirawan.  the village company bogor areas red card villages jampang Bogor . tanks all countrys 
+
+
 #undoc #unhcrRI swadaya #https://www.unhcr.org/stay-informed.html
 https://youtube.com/shorts/gDlDOYoge2I?feature=share
 UNHCR BOTH FADLIWIRYAWIRAWAN UNITEDSTATESSH ACCEPT VOICE 
